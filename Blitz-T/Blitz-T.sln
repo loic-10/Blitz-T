@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blitz-T.Web", "Blitz-T.Web\Blitz-T.Web.csproj", "{A7A3BBA2-B1DE-4C84-8F63-BEF02D12FB06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A3BBA2-B1DE-4C84-8F63-BEF02D12FB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A3BBA2-B1DE-4C84-8F63-BEF02D12FB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A3BBA2-B1DE-4C84-8F63-BEF02D12FB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A3BBA2-B1DE-4C84-8F63-BEF02D12FB06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245B6EFA-BA66-450F-8B2B-FC42C27B14AD}
+	EndGlobalSection
+EndGlobal
